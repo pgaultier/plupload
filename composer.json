@@ -1,0 +1,20 @@
+{
+  "name": "sweelix/plupload",
+  "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
+  "keywords": [
+    "upload",
+    "js",
+    "web"
+  ],
+  "homepage": "http://plupload.com",
+  "authors": [
+    {
+      "name": "Philippe Gaultier",
+      "email": "pgaultier@sweelix.net"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/pgaultier/plupload/issues"
+  },
+  "license": "GPLv2"
+}
